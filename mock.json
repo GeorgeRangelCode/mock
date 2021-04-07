@@ -1,0 +1,245 @@
+{
+  "data": {
+    "products": [
+      {
+        "brand": "Test Brand name",
+        "productId": "64",
+        "productName": "Camisa Move On Medio",
+        "stockBalance": 9,
+        "price": 16000000,
+        "listPrice": 16000000,
+        "categoryTree": [
+          {
+            "id": 3,
+            "name": "Ropa"
+          }
+        ],
+        "items": [
+          {
+            "itemId": "67",
+            "name": "Camisa-Move-On-Medio",
+            "ean": "",
+            "stockBalance": 37,
+            "price": 17000000,
+            "listPrice": 17000000,
+            "images": [
+              {
+                "imageUrl": "https://newbusinessunits.vtexassets.com/arquivos/ids/155518/63_419B000_020000_0.jpg?v=637375273683170000"
+              }
+            ],
+            "referenceId": [
+              {
+                "Key": "RefId",
+                "Value": "Camisa-Move-On-Medio"
+              }
+            ],
+            "variations": []
+          }
+        ]
+      },
+      {
+        "brand": "Diesel",
+        "productId": "3",
+        "productName": "Camisa Diesel",
+        "stockBalance": 347,
+        "price": 5600000,
+        "listPrice": 5600000,
+        "categoryTree": [
+          {
+            "id": 3,
+            "name": "Ropa"
+          }
+        ],
+        "items": [
+          {
+            "itemId": "3",
+            "name": "Camisa Diesel",
+            "ean": "978020137962",
+            "stockBalance": 347,
+            "price": 5600000,
+            "listPrice": 5600000,
+            "images": [
+              {
+                "imageUrl": "https://newbusinessunits.vtexassets.com/arquivos/ids/155398/camisa-diesel.jpg?v=637118623501300000"
+              }
+            ],
+            "referenceId": [
+              {
+                "Key": "RefId",
+                "Value": "01"
+              }
+            ],
+            "variations": [
+              {
+                "name": "Talla",
+                "originalName": null,
+                "values": ["0M-24M"]
+              },
+              {
+                "name": "Color",
+                "originalName": null,
+                "values": ["Gris"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "brand": "Diesel",
+        "productId": "44",
+        "productName": "Camiseta con control de sonido",
+        "stockBalance": 159,
+        "price": 500000,
+        "listPrice": 500000,
+        "categoryTree": [
+          {
+            "id": 3,
+            "name": "Ropa"
+          },
+          {
+            "id": 9,
+            "name": "Infantil"
+          },
+          {
+            "id": 10,
+            "name": "Niñas"
+          }
+        ],
+        "items": [
+          {
+            "itemId": "45",
+            "name": "Gris 24",
+            "ean": "",
+            "stockBalance": 7,
+            "price": 2000000,
+            "listPrice": 2000000,
+            "images": [
+              {
+                "imageUrl": "https://newbusinessunits.vtexassets.com/arquivos/ids/155493/42239441-Gris-Jaspe_1.jpg?v=637196513754630000"
+              }
+            ],
+            "referenceId": [
+              {
+                "Key": "RefId",
+                "Value": "984218"
+              }
+            ],
+            "variations": [
+              {
+                "name": "Talla",
+                "originalName": null,
+                "values": ["0M-24M"]
+              },
+              {
+                "name": "Color",
+                "originalName": null,
+                "values": ["Gris"]
+              }
+            ]
+          },
+          {
+            "itemId": "46",
+            "name": "Gris 24-48",
+            "ean": "",
+            "stockBalance": 6,
+            "price": 2500000,
+            "listPrice": 2500000,
+            "images": [
+              {
+                "imageUrl": "https://newbusinessunits.vtexassets.com/arquivos/ids/155494/42239441-Gris-Jaspe_1.jpg?v=637196514400700000"
+              }
+            ],
+            "referenceId": [
+              {
+                "Key": "RefId",
+                "Value": "984219"
+              }
+            ],
+            "variations": [
+              {
+                "name": "Talla",
+                "originalName": null,
+                "values": ["24M-48M"]
+              },
+              {
+                "name": "Color",
+                "originalName": null,
+                "values": ["Gris"]
+              }
+            ]
+          },
+          {
+            "itemId": "47",
+            "name": "Gris 4T",
+            "ean": "984220",
+            "stockBalance": 1,
+            "price": 2500000,
+            "listPrice": 2500000,
+            "images": [
+              {
+                "imageUrl": "https://newbusinessunits.vtexassets.com/arquivos/ids/155495/42239441-Gris-Jaspe_1.jpg?v=637196514779000000"
+              }
+            ],
+            "referenceId": [
+              {
+                "Key": "RefId",
+                "Value": null
+              }
+            ],
+            "variations": [
+              {
+                "name": "Talla",
+                "originalName": null,
+                "values": ["4T"]
+              },
+              {
+                "name": "Color",
+                "originalName": null,
+                "values": ["Gris"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "brand": "Test Brand name",
+        "productId": "36",
+        "productName": "Camiseta VTEX",
+        "stockBalance": 200,
+        "price": 3490000,
+        "listPrice": 3490000,
+        "categoryTree": [
+          {
+            "id": 1,
+            "name": "Test Category"
+          }
+        ],
+        "items": [
+          {
+            "itemId": "37",
+            "name": "Camiseta VTEX",
+            "ean": "",
+            "stockBalance": 252,
+            "price": 100000,
+            "listPrice": 100000,
+            "images": [
+              {
+                "imageUrl": "https://newbusinessunits.vtexassets.com/arquivos/ids/155491/shirt_VTEX_mockup.png?v=637195394979030000"
+              },
+              {
+                "imageUrl": "https://newbusinessunits.vtexassets.com/arquivos/ids/155485/vtex-bg6.jpg?v=637183759914030000"
+              }
+            ],
+            "referenceId": [
+              {
+                "Key": "RefId",
+                "Value": "CMS01"
+              }
+            ],
+            "variations": []
+          }
+        ]
+      }
+    ]
+  }
+}
